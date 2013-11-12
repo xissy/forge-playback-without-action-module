@@ -2,6 +2,7 @@
 inspector/an-inspector.*
 inspector/ios-inspector.*
 inspector/ios-inspector/build/
+inspector/ios-inspector/ForgeModule/build/
 inspector/ios-inspector/.hash
 inspector/an-inspector/ForgeInspector/
 inspector/ios-inspector/ForgeCore.bundle/
