@@ -1,0 +1,6 @@
+{
+    "description": "My module template", 
+    "name": "playback_without_action", 
+    "platform_version": "v2.0.4", 
+    "version": "0.9"
+}
